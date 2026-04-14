@@ -5,6 +5,9 @@
 [![Status: Draft](https://img.shields.io/badge/status-draft-yellow)](./BNRPs/BNRP-IP-00.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![Discussions](https://img.shields.io/badge/discord-join-5865F2)](https://discord.gg/eNERqJU85x)
+[![Live Demo](https://img.shields.io/badge/demo-live-orange)](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)
+
+**[→ Live Demo: resolve any .btc name](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)**
 
 ---
 
