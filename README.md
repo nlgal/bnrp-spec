@@ -6,16 +6,18 @@
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![Discussions](https://img.shields.io/badge/discord-join-5865F2)](https://discord.gg/eNERqJU85x)
 [![Live Demo](https://img.shields.io/badge/demo-live-orange)](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)
+[![btcname.wallet](https://img.shields.io/badge/btcname.wallet-unstoppable-blue)](https://btcname.wallet)
 
-**[→ Live Demo: resolve any .btc name](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)**
+**[→ Live Demo: resolve .btc, .sats, .unisat, .x, .xbt, .sat names](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)**  
+**[→ btcname.wallet](https://btcname.wallet)** _(Unstoppable Domain — requires UD-compatible browser or extension)_
 
 ---
 
 ## What is BNRP?
 
-BNRP is an open standard that makes `.btc` names function as a Bitcoin-native identity layer — equivalent to what ENS provides for Ethereum, but rooted entirely in Bitcoin and Ordinals.
+BNRP is an open standard that makes Bitcoin Ordinals names (`.btc`, `.sats`, `.unisat`, `.x`, `.xbt`, `.sat`) function as a Bitcoin-native identity layer — equivalent to what ENS provides for Ethereum, but rooted entirely in Bitcoin and Ordinals.
 
-A single `.btc` name can serve as:
+A single Bitcoin name can serve as:
 
 - A **primary identity** displayed in wallets and explorers in place of a raw Bitcoin address
 - A **reverse-resolved name** for any wallet that owns a `.btc` inscription
