@@ -10,7 +10,7 @@
 
 **[→ Live Demo: resolve .btc, .sats, .unisat, .x, .xbt, .sat names](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)**  
 **[→ btcname.wallet](https://btcname.wallet)** _(Unstoppable Domain — requires UD-compatible browser or extension)_  
-**IPFS:** `bafybeidbe6encoam36vyeroehrziflo7rwv6ioumxpjmivlwuzs3dv5jfe`
+**IPFS:** `bafybeihuph3swycjs6zje74ksnftn3iveei3a76yw36subzqxtis226i54`
 
 ---
 
