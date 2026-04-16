@@ -16,6 +16,16 @@
 
 ---
 
+## Genesis Inscription
+
+The first BNRP routing record was inscribed on Bitcoin on April 15, 2026.
+
+**Inscription ID:** `d2650a7c0caed740c29e033ad404ec41432042650696855627acd10031dd11d5i0`  
+**View identity card:** [bnrp.name/?verify=d2650a7c0caed740c29e033ad404ec41432042650696855627acd10031dd11d5i0](https://bnrp.name/?verify=d2650a7c0caed740c29e033ad404ec41432042650696855627acd10031dd11d5i0)  
+**View on Ordinals:** [ordinals.com/inscription/d2650a7c0caed740c29e033ad404ec41432042650696855627acd10031dd11d5i0](https://ordinals.com/inscription/d2650a7c0caed740c29e033ad404ec41432042650696855627acd10031dd11d5i0)
+
+---
+
 ## What is BNRP?
 
 BNRP is an open standard that makes Bitcoin Ordinals names (`.btc`, `.sats`, `.unisat`, `.x`, `.xbt`, `.sat`) function as a Bitcoin-native identity layer — equivalent to what ENS provides for Ethereum, but rooted entirely in Bitcoin and Ordinals.
