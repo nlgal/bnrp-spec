@@ -7,8 +7,10 @@
 [![Discussions](https://img.shields.io/badge/discord-join-5865F2)](https://discord.gg/eNERqJU85x)
 [![Live Demo](https://img.shields.io/badge/demo-live-orange)](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)
 [![btcname.wallet](https://img.shields.io/badge/btcname.wallet-unstoppable-blue)](https://btcname.wallet)
+[![npm](https://img.shields.io/badge/npm-bnrp--resolver-orange)](https://www.npmjs.com/package/bnrp-resolver)
 
 **[→ Live Demo: resolve .btc, .sats, .unisat, .x, .xbt, .sat names](https://www.perplexity.ai/computer/a/bnrp-btc-name-resolution-proto-VVRz7V8CTDy.vVCVDGNmRw)**  
+**[→ JavaScript/TypeScript SDK: github.com/nlgal/bnrp-resolver](https://github.com/nlgal/bnrp-resolver)** — `npm install bnrp-resolver`  
 **[→ btcname.wallet](https://btcname.wallet)** _(Unstoppable Domain — requires UD-compatible browser or extension)_  
 **IPFS:** `bafybeifzfi3yony2vaey3qqggjfiulaov2degdhlx2uvsc5y3fdfsnmvna`  
 **IPFS Gateway:** https://ipfs.io/ipfs/bafybeifzfi3yony2vaey3qqggjfiulaov2degdhlx2uvsc5y3fdfsnmvna  
